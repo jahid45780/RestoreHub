@@ -15,9 +15,10 @@ import Signup from "../Share/Signup/Signup";
 import MenuDetail from "../Pages/Menus/MenuDetail";
 import Profile from "../Home/Profile/Profile";
 import Dashboard from "../LayOutDashboard/Dashboard";
-import Transactions from "../LayOutDashboard/DashboardMenu/transactions";
+
 import ManageMenu from "../LayOutDashboard/DashboardMenu/ManageMenu";
 import ManageTestimonials from "../LayOutDashboard/DashboardMenu/ManageTestimonials";
+import Transactions from "../LayOutDashboard/Transactions";
 
    export const router = createBrowserRouter([
     {
@@ -79,7 +80,7 @@ import ManageTestimonials from "../LayOutDashboard/DashboardMenu/ManageTestimoni
       children:[
         {
           path:'transactions',
-          element:<Transactions></Transactions>
+          element:<Transactions/>
         },
         {
           path:'ManageMenu',

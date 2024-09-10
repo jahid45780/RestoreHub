@@ -1,5 +1,4 @@
-import React from 'react';
-import Tabile from '../../Share/Tabile/Tabile';
+import Tabile from "../Share/Tabile/Tabile";
 
 const Transactions = () => {
 

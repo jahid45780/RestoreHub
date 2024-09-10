@@ -31,11 +31,11 @@ const Banner = () => {
           </Link>
         </div>
 
-        <div className="border-[30px] border-[#6EA963] rounded-full w-[300px] h-[300px] sm:w-[400px] sm:h-[400px] lg:w-[470px] lg:h-[470px] flex justify-center items-center hover:rotate-45  m-4">
+        <div className="border-[30px] border-[#6EA963] rounded-full w-[300px] h-[300px] sm:w-[400px] sm:h-[400px] lg:w-[470px] lg:h-[470px] flex justify-center items-center hover:rotate-45 overflow-hidden  m-4">
           <img
             src={photo}
             alt="image"
-            className=" object-cover rounded-full  hover:animate-spin"
+            className=" object-cover rounded-full hover:scale-125 duration-300"
           />
         </div>
 

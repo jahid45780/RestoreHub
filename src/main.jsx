@@ -5,9 +5,10 @@ import './index.css'
 import {
   RouterProvider,
 } from "react-router-dom";
-import { router } from './Component/Router/Roter';
+
 import AuthProvider from './Component/providers/AuthProvider';
 import { Toaster } from 'react-hot-toast';
+import { router } from './Component/Router/Roter';
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
