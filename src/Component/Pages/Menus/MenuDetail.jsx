@@ -74,9 +74,98 @@ const MenuDetail = () => {
 {/* salider  */}
 
 <section className="mx-auto max-w-7xl lg:px-8" >
-    <h1 className=" text-4xl font-bold " > Related products </h1>
+    <h1 className=" text-4xl font-bold text-center " > Related products </h1>
+
+   <section className=" grid lg:grid-cols-3 grid-cols-1 gap-4 items-center justify-center mt-9" >
+   <div
+       data-aos="zoom-in"
+        data-aos-duration="2000"
+        className="bg-slate-100 rounded-lg border-t-2 border-s-2 border-black p-1" >
+
+          <img className="w-full object-cover h-64 rounded-xl" src={image} alt="food" /> 
+            
+            <div className="rating rating-xs flex items-center justify-center gap-2 ">
+
+<input
+  type="radio"
+  name="rating-5"
+  className="mask mask-star-2   bg-orange-400"
+  defaultChecked />
+<input type="radio" name="rating-5" className="mask mask-star-2  bg-orange-400" />
+<h2 className=' text-3xl mt-2 font-bold' > 6.3 </h2>
+</div>
+ <h2 className=' text-3xl mt-2 font-bold text-center mx-auto' >Does Tasty Food </h2> 
+<p className=' mt-4 text-lg font-semibold text-center mx-auto ' > $ 12 </p>
+
+<button className="btn btn-block bg-[#6EA963] font-extrabold mt-4" > Add To Cart </button>
+
+<p className=' text-lg mt-3 text-center text-[#BF757B] font-semibold' > Protein 01g / Carbs 13g / Fat 48g / </p>
 
 
+        </div>
+
+
+        <div
+       data-aos="zoom-in"
+        data-aos-duration="2000"
+        className="bg-slate-100 rounded-lg border-t-2 border-s-2 border-black p-1" >
+
+          <img className="w-full object-cover h-64 rounded-xl" src='https://images.immediate.co.uk/production/volatile/sites/30/2013/05/spaghetti-carbonara-382837d.jpg?resize=768,574' alt="food" /> 
+            
+            <div className="rating rating-xs flex items-center justify-center gap-2 ">
+
+<input
+  type="radio"
+  name="rating-5"
+  className="mask mask-star-2  bg-orange-400"
+  defaultChecked />
+<input type="radio" name="rating-5" className="mask mask-star-2 bg-orange-400" />
+<h2 className=' text-3xl mt-2 font-bold' > 7.1 </h2>
+</div>
+ <h2 className=' text-3xl mt-2 font-bold text-center mx-auto' > Easy Meals </h2> 
+<p className=' mt-4 text-lg font-semibold text-center mx-auto ' > $ 17 </p>
+
+<button className="btn btn-block bg-[#6EA963] font-extrabold mt-4" > Add To Cart </button>
+
+<p className=' text-lg mt-3 text-center text-[#BF757B] font-semibold' > Protein 11g / Carbs 23g / Fat 98g / </p>
+
+
+        </div>
+
+
+
+
+    <div
+       data-aos="zoom-in"
+        data-aos-duration="2000"
+        className="bg-slate-100 rounded-lg border-t-2 border-s-2 border-black p-1" >
+
+          <img className="w-full object-cover h-64 rounded-xl" src='https://food.fnr.sndimg.com/content/dam/images/food/fullset/2016/6/12/3/FNM070116_Penne-with-Vodka-Sauce-and-Mini-Meatballs-recipe_s4x3.jpg.rend.hgtvcom.1280.1280.suffix/1465939620872.jpeg' alt="food" /> 
+            
+            <div className="rating rating-xs flex justify-center items-center gap-2 ">
+
+<input
+  type="radio"
+  name="rating-5"
+  className="mask mask-star-2  bg-orange-400"
+  defaultChecked />
+<input type="radio" name="rating-5" className="mask mask-star-2 bg-orange-400" />
+<h2 className=' text-3xl mt-2 font-bold' > 8.2 </h2>
+</div>
+ <h2 className=' text-3xl mt-2 font-bold text-center mx-auto ' > French food </h2> 
+<p className=' mt-4 text-lg font-semibold text-center mx-auto ' > $ 22  </p>
+
+<button className="btn btn-block bg-[#6EA963] font-extrabold mt-4" > Add To Cart </button>
+
+<p className=' text-lg mt-3 text-center text-[#BF757B] font-semibold' > Protein 49g / Carbs 23g / Fat 23g / </p>
+
+
+        </div>            
+
+
+
+
+   </section>
   
 </section>
 
