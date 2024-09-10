@@ -1,0 +1,35 @@
+[
+    {
+      "id": 1,
+      "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?resize=768,574",
+      "title": "Heathy Food Pasta",
+      "rating": 4.5,
+      "price": 99.99,
+      "dis":"Protein 49g / Carbs 23g / Fat 23g /"
+    },
+    {
+      "id": 2,
+      "image": "https://www.spectator.co.uk/wp-content/uploads/2023/09/iStock-1493915795.jpg?w=1080",
+      "title": "Heathy Food Tacos",
+      "rating": 4.7,
+      "price": 499.99,
+      "dis":"Protein 49g / Carbs 23g / Fat 23g /"
+    },
+    {
+      "id": 3,
+      "image": "https://i0.wp.com/post.healthline.com/wp-content/uploads/2022/09/frozen-dinner-meal-meatloaf-mashed-potatoes-vegetables-1296x728-header.jpg?w=1155&h=1528",
+      "title": "Heathy Food Sushi",
+      "rating": 4.3,
+      "price": 29.99,
+      "dis":"Protein 49g / Carbs 23g / Fat 23g /"
+    },
+    {
+      "id": 4,
+      "image": "https://cdn.britannica.com/81/240881-138-11AE4B2E/Can-I-Still-Eat-This-expiration-dates.jpg?w=800&h=450&c=crop",
+      "title": "Heathy Food Burger",
+      "rating": 4.8,
+      "price": 1199.99,
+      "dis":"Protein 49g / Carbs 23g / Fat 23g /"
+    }
+  ]
+  

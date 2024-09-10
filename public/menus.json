@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?resize=768,574",
+    "title": "Food Pasta",
+    "rating": 4.5,
+    "price": 99.99,
+    "dis": "Protein 49g / Carbs 23g / Fat 23g /",
+    "description": "A classic Italian pizza made with fresh mozzarella cheese, homemade tomato sauce, and fragrant basil leaves.",
+    "category": "entree"
+  },
+  {
+    "id": 2,
+    "image": "https://www.spectator.co.uk/wp-content/uploads/2023/09/iStock-1493915795.jpg?w=1080",
+    "title": "Food Tacos",
+    "rating": 4.7,
+    "price": 499.99,
+    "dis": "Protein 49g / Carbs 23g / Fat 23g /",
+    "description": "A classic Italian pizza made with fresh mozzarella cheese, homemade tomato sauce, and fragrant basil leaves.",
+    "category": "snacks"
+  },
+  {
+    "id": 3,
+    "image": "https://i0.wp.com/post.healthline.com/wp-content/uploads/2022/09/frozen-dinner-meal-meatloaf-mashed-potatoes-vegetables-1296x728-header.jpg?w=1155&h=1528",
+    "title": "Food Sushi",
+    "rating": 4.3,
+    "price": 29.99,
+    "dis": "Protein 49g / Carbs 23g / Fat 23g /",
+    "description": "A classic Italian pizza made with fresh mozzarella cheese, homemade tomato sauce, and fragrant basil leaves.",
+    "category": "entree"
+  },
+  {
+    "id": 4,
+    "image": "https://cdn.britannica.com/81/240881-138-11AE4B2E/Can-I-Still-Eat-This-expiration-dates.jpg?w=800&h=450&c=crop",
+    "title": "Food Burger",
+    "rating": 4.8,
+    "price": 1199.99,
+    "dis": "Protein 49g / Carbs 23g / Fat 23g /",
+    "description": "A classic Italian pizza made with fresh mozzarella cheese, homemade tomato sauce, and fragrant basil leaves.",
+    "category": "entree"
+  },
+  {
+    "id": 5,
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/140430115517-06-comfort-foods.jpg?q=w_1110,c_fill",
+    "title": "Food CNN",
+    "rating": 4.8,
+    "price": 1199.99,
+    "dis": "Protein 49g / Carbs 23g / Fat 23g /",
+    "description": "A classic Italian pizza made with fresh mozzarella cheese, homemade tomato sauce, and fragrant basil leaves.",
+    "category": "breakfast"
+  },
+  {
+    "id": 6,
+    "image": "https://images.immediate.co.uk/production/volatile/sites/30/2022/08/Corndogs-7832ef6.jpg?quality=90&resize=556,505",
+    "title": "Food American",
+    "rating": 4.8,
+    "price": 1199.99,
+    "dis": "Protein 49g / Carbs 23g / Fat 23g /",
+    "description": "A classic Italian pizza made with fresh mozzarella cheese, homemade tomato sauce, and fragrant basil leaves.",
+    "category": "snacks"
+  },
+  {
+    "id": 7,
+    "image": "https://img.freepik.com/free-photo/chicken-wings-barbecue-sweetly-sour-sauce-picnic-summer-menu-tasty-food-top-view-flat-lay_2829-6471.jpg",
+    "title": "Food Burger",
+    "rating": 4.8,
+    "price": 1199.99,
+    "dis": "Protein 49g / Carbs 23g / Fat 23g /",
+    "description": "A classic Italian pizza made with fresh mozzarella cheese, homemade tomato sauce, and fragrant basil leaves.",
+    "category": "snacks"
+  },
+  {
+    "id": 8,
+    "image": "https://cdn-ilaijbf.nitrocdn.com/YzeYmKigJpOUmEDUPOsqjcZLGXECGjCN/assets/images/optimized/rev-fee2c83/www.foodfood.com/wp-content/uploads/2024/05/PunjabiSamosa.jpg",
+    "title": "Food Burger",
+    "rating": 4.8,
+    "price": 1199.99,
+    "dis": "Protein 49g / Carbs 23g / Fat 23g /",
+    "description": "A classic Italian pizza made with fresh mozzarella cheese, homemade tomato sauce, and fragrant basil leaves.",
+    "category": "snacks"
+  },
+  {
+    "id": 9,
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/160929101749-essential-spanish-dish-paella-phaidon.jpg?q=w_1900,h_1069,x_0,y_0,c_fill",
+    "title": "Food Burger",
+    "rating": 4.8,
+    "price": 1199.99,
+    "dis": "Protein 49g / Carbs 23g / Fat 23g /",
+    "description": "A classic Italian pizza made with fresh mozzarella cheese, homemade tomato sauce, and fragrant basil leaves.",
+    "category": "entree"
+  },
+  {
+    "id": 10,
+    "image": "https://images.nationalgeographic.org/image/upload/t_edhub_resource_related_resources/v1638890193/EducationHub/photos/mithai.jpg",
+    "title": "Food Burger",
+    "rating": 4.8,
+    "price": 1199.99,
+    "dis": "Protein 49g / Carbs 23g / Fat 23g /",
+    "description": "A classic Italian pizza made with fresh mozzarella cheese, homemade tomato sauce, and fragrant basil leaves.",
+    "category": "breakfast"
+  }
+]
