@@ -14,8 +14,8 @@ const Feedbacks = () => {
             data-aos-easing="ease-in-sine"
              data-aos-duration="3000"
             
-            className=' grid lg:grid-cols-2 grid-cols-1 gap-3 justify-center items-center mt-8' >
-            <div className=' flex gap-2 items-center justify-center' >
+            className=' grid lg:grid-cols-2 grid-cols-1 gap-3 justify-center bg-[#F9F9F9] shadow-md rounded-md  p-3 items-center mt-8' >
+            <div className=' flex gap-2 items-center bg-[#F9F9F9] shadow-md rounded-md p-3 justify-center' >
                <div> <img src={img} alt="" /></div>
                 <div>
                     <h1 className=' text-lg font-bold' > Ms Liya </h1>
@@ -29,7 +29,7 @@ const Feedbacks = () => {
                data-aos="flip-left"
                data-aos-easing="ease-out-cubic"
                data-aos-duration="2000"
-              className=' flex gap-2 items-center justify-center' >
+              className=' flex gap-2 items-center bg-[#F9F9F9] shadow-md rounded-md p-3  justify-center' >
                <div> <img src={img1} alt="" /></div>
                 <div>
                     <h1 className=' text-lg font-bold' > Ms Faija </h1>

@@ -9,7 +9,7 @@ const Banner = () => {
       style={{
         backgroundImage: `url(${bg})`,
       }}
-      className=" mt-8"
+      className=" mt-8 m-2"
     >
       <div className=" grid lg:grid-cols-2 grid-cols-1 gap-3 justify-center items-center max-w-6xl mx-auto ">
         <div className="hover:rotate-2">
